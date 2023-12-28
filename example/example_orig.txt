@@ -1,0 +1,3 @@
+This is an example caption for this image.
+
+(Image source: Morten Rieger Hannemose (2019). Recreated Lena Picture. https://mortenhannemose.github.io/lena/)
